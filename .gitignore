@@ -1,0 +1,32 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Coffee Machine/task/out/test/classes/
+/Problems/Account and its owner/out/
+/Problems/Account and its owner/out/production/classes/
+/Problems/Check if an array contains two numbers/out/
+/Problems/Check if an array contains two numbers/out/production/classes/
+/Problems/Check prefix ignoring the case/out/
+/Problems/Check prefix ignoring the case/out/production/classes/
+/Problems/Check the value/out/
+/Problems/Check the value/out/production/classes/
+/Problems/Check the value (1)/out/
+/Problems/Check the value (1)/out/production/classes/
+/Problems/Count how many times a number occurs/out/
+/Problems/Count how many times a number occurs/out/production/classes/
+/Problems/Digits from 0 to 9 in a single line/out/
+/Problems/Digits from 0 to 9 in a single line/out/production/classes/
+/Problems/Extracting a substring/out/
+/Problems/Extracting a substring/out/production/classes/
+/Problems/Hello!/out/
+/Problems/Hello!/out/production/classes/
+/Problems/Hello, Java/out/
+/Problems/Hello, Java/out/production/classes/
+/Problems/Replacing 'a' with 'b'/out/
+/Problems/Replacing 'a' with 'b'/out/production/classes/
+/Problems/Right Rotation/out/
+/Problems/Right Rotation/out/production/classes/
+/Problems/Robot control/out/
+/Problems/Robot control/out/production/classes/
